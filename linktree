@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WayUp Media Links</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>WFO Media Links</title>
+    <link rel="stylesheet" href="linktreestyles.css">
 </head>
 <body>
     <div class="container">
-        <img src="logo.png" alt="WayUp Media Logo" class="logo">
+        <img src="logo.png" alt="WFO Media Logo" class="logo">
         <h1>WayUp Media</h1>
-        <p>Engaging Digital Content Creation</p>
+        <p>Jaw Dropping Digital Content Creation</p>
         <div class="links">
-            <a href="https://www.wayupmedia.com/" target="_blank">Official Website</a>
-            <a href="https://www.instagram.com/wayup_media/" target="_blank">Instagram</a>
-            <a href="https://www.tiktok.com/@wayupmedia" target="_blank">TikTok</a>
-            <a href="https://www.facebook.com/wayupmediacorp" target="_blank">Facebook</a>
-            <a href="https://www.youtube.com/channel/UC123456789" target="_blank">YouTube</a>
-            <a href="https://www.linkedin.com/company/wayup-media" target="_blank">LinkedIn</a>
+            <a href="#" target="_blank">Official Website</a>
+            <a href="#" target="_blank">Instagram</a>
+            <a href="#" target="_blank">TikTok</a>
+            <a href="#" target="_blank">Facebook</a>
+            <a href="#" target="_blank">YouTube</a>
+            <a href="#" target="_blank">LinkedIn</a>
         </div>
     </div>
 </body>
