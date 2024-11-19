@@ -12,7 +12,7 @@
 }
 
 .logo img {
-  max-width: 150px; /* Adjust size as needed */
+  max-width: 30px; /* Adjust size as needed */
   height: auto; /* Maintain aspect ratio */
   display: block;
 }
